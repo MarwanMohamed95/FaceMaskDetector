@@ -45,7 +45,7 @@ MobileNetV2 is a convolutional neural network architecture that seeks to perform
 
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
-![](https://github.com/MarwanMohamed95/Face_Mask_Detector/blob/main/test.jfif?raw=true)  |  ![](https://github.com/MarwanMohamed95/Face_Mask_Detector/blob/main/Results/Test1Result.jpg?raw=true)
+![](https://github.com/MarwanMohamed95/Face_Mask_Detector/blob/main/test1.jpg?raw=true)  |  ![](https://github.com/MarwanMohamed95/Face_Mask_Detector/blob/main/Results/Test1Result.jpg?raw=true)
 
 
 ## 🛠 Skills

@@ -47,8 +47,6 @@ Before Detection            |  After Detection
 :-------------------------:|:-------------------------:
 ![](https://github.com/MarwanMohamed95/Face_Mask_Detector/blob/main/test1.jpg?raw=true)  |  ![](https://github.com/MarwanMohamed95/Face_Mask_Detector/blob/main/Results/Test1Result.jpg?raw=true)
 
-Before Detection            |  After Detection
-:-------------------------:|:-------------------------:
 ![](https://github.com/MarwanMohamed95/Face_Mask_Detector/blob/main/test3.jpg?raw=true)  |  ![](https://github.com/MarwanMohamed95/Face_Mask_Detector/blob/main/Results/Test3Result.jpg?raw=true)
 
 ## 🛠 Skills

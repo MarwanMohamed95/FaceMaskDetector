@@ -48,12 +48,6 @@ Solarized dark             |  Solarized Ocean
 ![](https://github.com/MarwanMohamed95/Face_Mask_Detector/blob/main/test.jfif?raw=true)  |  ![](https://github.com/MarwanMohamed95/Face_Mask_Detector/blob/main/Results/Test1Result.jpg?raw=true)
 
 
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-![](https://github.com/MarwanMohamed95/Face_Mask_Detector/blob/main/test.jfif?raw=true)  |  ![](https://github.com/MarwanMohamed95/Face_Mask_Detector/blob/main/Results/Test1Result.jpg?raw=true)
-
-
-
 ## 🛠 Skills
 Deep Learning, Computer Vision, Python, tensorFlow, OpenCV...
 

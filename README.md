@@ -49,7 +49,7 @@ MobileNetV2 is a convolutional neural network architecture that seeks to perform
 ![](https://github.com/MarwanMohamed95/Face_Mask_Detector/blob/main/test3.jpg?raw=true)  |  ![](https://github.com/MarwanMohamed95/Face_Mask_Detector/blob/main/Results/Test3Result.jpg?raw=true)
 
 ## 🛠 Skills
-Deep Learning, Computer Vision, Python, tensorFlow, OpenCV...
+Deep Learning, Computer Vision, Python, TensorFlow, OpenCV...
 
 
 ## 🔗 Links

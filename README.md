@@ -27,8 +27,8 @@
     2. Loading the Model
     3. Haar Cascade Classifier (Face Detection)
     4. Testing the model on real time images and videos
-        4.1. The First Part of this tutorial is to run the face mask detector on a real time image
-        4.2. The Second Part of this tutorial is to run the face mask detector on a live video.
+        4.1. The First Part of this notebook is to run the face mask detector on a real time image
+        4.2. The Second Part of this notebook is to run the face mask detector on a live video.
 
 
 ## An Overview about the model we used (MobileNetV2):
